@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+.content{
+  /* text-align: center; */
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  min-height: 1000px;
+}
+
+body{
+ margin: 0;
+  
+}
